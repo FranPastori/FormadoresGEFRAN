@@ -3,7 +3,6 @@
     --cor-de-fundo: #EBECEE;
     --branco:#ffffff;
 }
-
 body {
     background-color: var(--cor-de-fundo);
 }
